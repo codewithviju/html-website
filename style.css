@@ -1,0 +1,10 @@
+div {
+  background-color: burlywood;
+  color: black;
+  text-align: center;
+  padding: 20px;
+}
+
+div p {
+  font-size: 20px;
+}
